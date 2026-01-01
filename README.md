@@ -1,4 +1,4 @@
-# 📦 Smart Supply Chain: Predicting Delivery Delays
+#  Smart Supply Chain: Predicting Delivery Delays
 
 ### 📊 Project Overview
 In the logistics industry, "Estimated Delivery Time" is the most critical metric for customer satisfaction.My experience in supply chain operations (FedEx), gave me a deep appreciation for the complexity of global operations.
