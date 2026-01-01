@@ -16,15 +16,15 @@ Certain global regions showed consistently higher delay risks, allowing for targ
 
 **1. Global Risk Heatmap**
 *Visualizing high-risk delivery regions.*
-![Global Map](images/heatmap.png)
+![Global Map](Images/heatmap.png)
 
 **2. Shipping Mode Reliability**
 *Evidence that First Class shipping has the highest delay probability.*
-![Shipping Bar Chart](images/shipping_chart.png)
+![Shipping Bar Chart](Images/shipping_chart.png)
 
 **3. Root Cause Analysis (Feature Importance)**
 *The Random Forest model identified 'Shipping Mode' as the top predictor of delay.*
-![Feature Importance](images/feature_chart.png)
+![Feature Importance](Images/feature_chart.png)
 
 ### 🛠️ Tech Stack
 * **Python:** Data Cleaning & Processing
