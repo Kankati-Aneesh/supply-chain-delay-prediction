@@ -1,7 +1,7 @@
 # 📦 Smart Supply Chain: Predicting Delivery Delays
 
 ### 📊 Project Overview
-In the logistics industry, "Estimated Delivery Time" is the most critical metric for customer satisfaction. During my experience in supply chain operations (FedEx), I realized that static delivery estimates often fail to account for real-world variables.
+In the logistics industry, "Estimated Delivery Time" is the most critical metric for customer satisfaction.My experience in supply chain operations (FedEx), gave me a deep appreciation for the complexity of global operations.
 
 This project analyzes **180,519 supply chain records** to identify bottlenecks and builds a **Machine Learning model (Random Forest)** to predict late deliveries with ~70% accuracy.
 
